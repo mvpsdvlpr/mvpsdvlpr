@@ -1,0 +1,4 @@
+- 👋 Hi, im Sergio Matamala
+- 👀 I’m interested in reactjs, nodejsarquitecure, k8 and more
+- 🌱 I’m currently learning reactjs
+- 📫 How to reach me mvpdvlp@gmail.com
