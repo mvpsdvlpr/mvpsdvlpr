@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Matamala</h1>
 <h3 align="center">I am a computer engineer, a lover of technology and programming and a future Industrial Civil Engineer</h3>
 
-![](https://www.codewars.com/users/mvpsdvlpr/badges/micro)\
+![](https://www.codewars.com/users/mvpsdvlpr/badges/micro)
 
 ![](https://komarev.com/ghpvc/?username=mvpsdvlpr&color=blueviolet)
 
