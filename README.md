@@ -9,7 +9,12 @@
  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" />-->
   
 
-<a href='https://github.com/samadpls/Programing-Gifs'><img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='samadpls/Programming-Gifs'>
+</a>
+
+---
+
 
 
 
@@ -24,6 +29,9 @@
 
 
 
+
+
+---
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 <div align='center'>
 <p align="left">
@@ -67,7 +75,7 @@
 </a> 
 </p>
 </div> -->
-
+---
 
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
